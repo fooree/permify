@@ -36,39 +36,39 @@
         <dependency>
             <groupId>build.buf.gen</groupId>
             <artifactId>permifyco_permify_grpc_java</artifactId>
-            <version>1.68.1.1.20241104072135.1eeab2d91c14</version>
+            <version>1.68.2.1.20241104072135.1eeab2d91c14</version>
         </dependency>
         
         <dependency>
             <groupId>build.buf.gen</groupId>
             <artifactId>permifyco_permify_protocolbuffers_java</artifactId>
-            <version>28.3.0.2.20241104072135.1eeab2d91c14</version>
+            <version>29.1.0.1.20241104072135.1eeab2d91c14</version>
         </dependency>
         
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-netty</artifactId>
-            <version>1.68.1</version> <!-- Ensure this matches the version of grpc you are using -->
+            <version>1.69.0</version> <!-- Ensure this matches the version of grpc you are using -->
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-core</artifactId>
-            <version>1.68.1</version>
+            <version>1.69.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-api</artifactId>
-            <version>1.68.1</version>
+            <version>1.69.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-protobuf</artifactId>
-            <version>1.68.1</version>
+            <version>1.69.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-stub</artifactId>
-            <version>1.68.1</version>
+            <version>1.69.0</version>
         </dependency>
 
     </dependencies>
